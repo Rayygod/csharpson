@@ -1,0 +1,14 @@
+C:\Users\SENAI\Desktop\csharpson\bin\Debug\net7.0\csharpson.exe
+C:\Users\SENAI\Desktop\csharpson\bin\Debug\net7.0\csharpson.deps.json
+C:\Users\SENAI\Desktop\csharpson\bin\Debug\net7.0\csharpson.runtimeconfig.json
+C:\Users\SENAI\Desktop\csharpson\bin\Debug\net7.0\csharpson.dll
+C:\Users\SENAI\Desktop\csharpson\bin\Debug\net7.0\csharpson.pdb
+C:\Users\SENAI\Desktop\csharpson\obj\Debug\net7.0\csharpson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Desktop\csharpson\obj\Debug\net7.0\csharpson.AssemblyInfoInputs.cache
+C:\Users\SENAI\Desktop\csharpson\obj\Debug\net7.0\csharpson.AssemblyInfo.cs
+C:\Users\SENAI\Desktop\csharpson\obj\Debug\net7.0\csharpson.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Desktop\csharpson\obj\Debug\net7.0\csharpson.dll
+C:\Users\SENAI\Desktop\csharpson\obj\Debug\net7.0\refint\csharpson.dll
+C:\Users\SENAI\Desktop\csharpson\obj\Debug\net7.0\csharpson.pdb
+C:\Users\SENAI\Desktop\csharpson\obj\Debug\net7.0\csharpson.genruntimeconfig.cache
+C:\Users\SENAI\Desktop\csharpson\obj\Debug\net7.0\ref\csharpson.dll
